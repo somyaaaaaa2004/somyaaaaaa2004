@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##  I'm Somya 👋
+##  I'm Somya 
 
 I am a Computer Science undergraduate interested in Business Intelligence and
 data analytics. I enjoy working with SQL, defining KPIs, and translating data
