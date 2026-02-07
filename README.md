@@ -6,7 +6,10 @@
 
 - 🔭 I'm currently working on **End-to-end data intelligence platform **
 
-- 🌱 I'm currently learning **docker , LLM ,nlp , airflow , grafana , azure , AWS data engineering**
+- 🌱 I'm currently working with ** ✅ Python, SQL, R, SAS
+✅ Power BI, Tableau, Looker
+✅ AWS, Azure, GCP, Snowflake, Spark
+✅ Data modeling, ETL, dashboards, and advanced analyticsdocker , LLM ,nlp , airflow , grafana  **
 
 - 📫 How to reach me **somya0318@gmail.com**
 
